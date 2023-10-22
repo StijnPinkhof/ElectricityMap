@@ -1,0 +1,1922 @@
+[
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_52_LILLO",
+        "assetname": "DOEL-MERCATOR 380.52",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 3.904785156,
+        "loading": 0.18,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.29,
+                        51.23
+                    ],
+                    [
+                        4.3172839,
+                        51.3011478
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.303641949999999,
+            "lat": 51.2655739
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_28",
+        "assetname": "MAASBRACHT-VAN EYCK 380.28",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 300.310603434,
+        "loading": 19.01,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.827389,
+                        51.26019
+                    ],
+                    [
+                        5.837389,
+                        51.26019
+                    ],
+                    [
+                        5.7839249,
+                        51.1213005
+                    ],
+                    [
+                        5.7739249,
+                        51.1213005
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.810064618573475,
+            "lat": 51.19074525
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_61_MERCA",
+        "assetname": "MASSENHOVEN-MERCATOR 380.61",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 0.987182617,
+        "loading": 0.06,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.5,
+                        51.15
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.373412549999999,
+            "lat": 51.152026649999996
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_74_MERCA",
+        "assetname": "HORTA-MERCATOR 380.74",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 971.896915148,
+        "loading": 33.59,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.9,
+                        51.162
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.07341255,
+            "lat": 51.15802665
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_34",
+        "assetname": "BRUEGEL-COURCELLES 380.34",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 156.601149495,
+        "loading": 9.92,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2316923,
+                        50.8810035
+                    ],
+                    [
+                        4.3475466,
+                        50.4945628
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.28961945,
+            "lat": 50.68778315
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_13",
+        "assetname": "AUBANGE-BRUME 380.13",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 142.910886502,
+        "loading": 16.16,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.7943429,
+                        49.5667758
+                    ],
+                    [
+                        5.8429861,
+                        50.375498
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.818664500000001,
+            "lat": 49.9711369
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_33_BRUEG",
+        "assetname": "BRUEGEL-COURCELLES 380.33",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 56.907558322,
+        "loading": 3.86,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2316923,
+                        50.8810035
+                    ],
+                    [
+                        4.2994849,
+                        50.803522
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.2655886,
+            "lat": 50.84226275
+        }
+    },
+    {
+        "acdc": "DC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_115",
+        "assetname": "LIXHE-ALEGRO 380.115",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 983.060431654,
+        "loading": 93.88,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.6691945,
+                        50.7540781
+                    ],
+                    [
+                        6.45,
+                        50.73
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 6.059597249999999,
+            "lat": 50.742039049999995
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_74_HORTA",
+        "assetname": "HORTA-MERCATOR 380.74",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 968.483135851,
+        "loading": 27.71,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.6036937,
+                        51.11457
+                    ],
+                    [
+                        3.9,
+                        51.162
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.7518468499999997,
+            "lat": 51.138284999999996
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_79",
+        "assetname": "AVELGEM-MASTAING 380.79",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 624.739960124,
+        "loading": 21.67,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.4690219,
+                        50.7824407
+                    ],
+                    [
+                        3.4,
+                        50.398301
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.43451095,
+            "lat": 50.59037085
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_101",
+        "assetname": "AVELGEM-HORTA 380.101",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 1335.742689887,
+        "loading": 46.19,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.4690219,
+                        50.7824407
+                    ],
+                    [
+                        3.6036937,
+                        51.11457
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.5363577999999998,
+            "lat": 50.94850535
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_19",
+        "assetname": "ACHENE-LONNY 380.19",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 854.648651801,
+        "loading": 46.78,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.0554179,
+                        50.2605414
+                    ],
+                    [
+                        4.82053,
+                        49.668934
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.93797395,
+            "lat": 49.9647377
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_102",
+        "assetname": "AVELGEM-HORTA 380.102",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 1335.965091688,
+        "loading": 46.2,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.4690219,
+                        50.7824407
+                    ],
+                    [
+                        3.4790219,
+                        50.7824407
+                    ],
+                    [
+                        3.6136937,
+                        51.11457
+                    ],
+                    [
+                        3.6036937,
+                        51.11457
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.5460935253001584,
+            "lat": 50.948505350000005
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_80",
+        "assetname": "AVELIN-AVELGEM 380.80",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 1418.46500434,
+        "loading": 49.2,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.235762,
+                        50.398301
+                    ],
+                    [
+                        3.4690219,
+                        50.7824407
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.35239195,
+            "lat": 50.59037085
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_29",
+        "assetname": "RILLAND-ZANDVLIET 380.29",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 499.223393012,
+        "loading": 20.84,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.181,
+                        51.416
+                    ],
+                    [
+                        4.24811,
+                        51.3695249
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.214555,
+            "lat": 51.39276245
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_54",
+        "assetname": "DOEL-MERCATOR 380.54",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 799.09417372,
+        "loading": 49.58,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2559171,
+                        51.3223283
+                    ],
+                    [
+                        4.265917099999999,
+                        51.3223283
+                    ],
+                    [
+                        4.2568250999999995,
+                        51.1540533
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.260840653551803,
+            "lat": 51.2381908
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_53",
+        "assetname": "DOEL-MERCATOR 380.53",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 605.492733561,
+        "loading": 37.57,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2559171,
+                        51.3223283
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.2513711,
+            "lat": 51.2381908
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_26",
+        "assetname": "DOEL-ZANDVLIET 380.26",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 322.978797472,
+        "loading": 20.45,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2559171,
+                        51.3223283
+                    ],
+                    [
+                        4.265917099999999,
+                        51.3223283
+                    ],
+                    [
+                        4.258109999999999,
+                        51.3695249
+                    ],
+                    [
+                        4.24811,
+                        51.3695249
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.26053944894285,
+            "lat": 51.34592660000001
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_111",
+        "assetname": "GEZELLE-STEVIN 380.111",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 404.885182292,
+        "loading": 11.71,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2638468
+                    ],
+                    [
+                        3.1837372,
+                        51.3258532
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.19246695,
+            "lat": 51.29485
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_12_VANYK",
+        "assetname": "GRAMME-VAN EYCK 380.12",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 98.2152889,
+        "loading": 5.74,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.55,
+                        50.9403003
+                    ],
+                    [
+                        5.7739249,
+                        51.1213005
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.66196245,
+            "lat": 51.0308004
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_27",
+        "assetname": "MAASBRACHT-VAN EYCK 380.27",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 785.755695665,
+        "loading": 49.74,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.827389,
+                        51.26019
+                    ],
+                    [
+                        5.7739249,
+                        51.1213005
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.8006569500000005,
+            "lat": 51.19074525
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_51_MERCA",
+        "assetname": "DOEL-MERCATOR 380.51",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 719.771273329,
+        "loading": 48.84,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.28,
+                        51.23
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.26341255,
+            "lat": 51.19202665
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_23",
+        "assetname": "MEERHOUT-VAN EYCK 380.23",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 1.880126953,
+        "loading": 0.12,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.063508,
+                        51.1076435
+                    ],
+                    [
+                        5.7739249,
+                        51.1213005
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.41871645,
+            "lat": 51.11447199999999
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_10",
+        "assetname": "ACHENE-GRAMME 380.10",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 914.492240668,
+        "loading": 48.43,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.0554179,
+                        50.2605414
+                    ],
+                    [
+                        5.2865226,
+                        50.5122793
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.17097025,
+            "lat": 50.386410350000006
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_31_COURC",
+        "assetname": "COURCELLES-GRAMME 380.31",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 220.877317708,
+        "loading": 11.53,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.3475466,
+                        50.4945628
+                    ],
+                    [
+                        4.8,
+                        50.53
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.5737733,
+            "lat": 50.5122814
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_02",
+        "assetname": "BRUME-GRAMME 380.2",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 25.42035102,
+        "loading": 1.61,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.8429861,
+                        50.375498
+                    ],
+                    [
+                        5.8429861,
+                        50.367498
+                    ],
+                    [
+                        5.2865226,
+                        50.5042793
+                    ],
+                    [
+                        5.2865226,
+                        50.5122793
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.56475435,
+            "lat": 50.43599730363282
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_107",
+        "assetname": "GEZELLE-VAN MAERLANT 380.107",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 213.541488851,
+        "loading": 12.02,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2638468
+                    ],
+                    [
+                        3.3157897,
+                        51.2269458
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.2584932,
+            "lat": 51.2453963
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_61_MASSE",
+        "assetname": "MASSENHOVEN-MERCATOR 380.61",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 0.168079834,
+        "loading": 0.01,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.6292157,
+                        51.1958298
+                    ],
+                    [
+                        4.5,
+                        51.15
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.56460785,
+            "lat": 51.172914899999995
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_91",
+        "assetname": "LIXHE-VAN EYCK 380.91",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 401.995759006,
+        "loading": 21.16,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.6691945,
+                        50.7540781
+                    ],
+                    [
+                        5.7739249,
+                        51.1213005
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.7215597,
+            "lat": 50.9376893
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_114",
+        "assetname": "GEZELLE-NEMO 380.114",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 69.980435113,
+        "loading": 6.5,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2638468
+                    ],
+                    [
+                        1.36,
+                        51.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 2.28059835,
+            "lat": 51.2319234
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_112",
+        "assetname": "GEZELLE-STEVIN 380.112",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 404.981563043,
+        "loading": 11.72,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2638468
+                    ],
+                    [
+                        3.2111967,
+                        51.2638468
+                    ],
+                    [
+                        3.1937371999999997,
+                        51.3258532
+                    ],
+                    [
+                        3.1837372,
+                        51.3258532
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.201282362964099,
+            "lat": 51.29485
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_108",
+        "assetname": "GEZELLE-VAN MAERLANT 380.108",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 213.621839735,
+        "loading": 12.02,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2638468
+                    ],
+                    [
+                        3.2011967,
+                        51.2558468
+                    ],
+                    [
+                        3.3157897,
+                        51.2189458
+                    ],
+                    [
+                        3.3157897,
+                        51.2269458
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.2584931999999998,
+            "lat": 51.237865549938405
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_36_MERCA",
+        "assetname": "BRUEGEL-MERCATOR 380.36",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 133.483643121,
+        "loading": 8.45,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.25,
+                        51.0
+                    ],
+                    [
+                        4.2568250999999995,
+                        51.1540533
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.253315874766771,
+            "lat": 51.08171755009363
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_01",
+        "assetname": "BRUME-GRAMME 380.1",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 27.01916531,
+        "loading": 1.83,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.8429861,
+                        50.375498
+                    ],
+                    [
+                        5.2865226,
+                        50.5122793
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.564754349999999,
+            "lat": 50.443888650000005
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_52_MERCA",
+        "assetname": "DOEL-MERCATOR 380.52",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 691.982505968,
+        "loading": 46.96,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.29,
+                        51.23
+                    ],
+                    [
+                        4.2568250999999995,
+                        51.1540533
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.271088226331581,
+            "lat": 51.18793805425691
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_31_GRAMM",
+        "assetname": "COURCELLES-GRAMME 380.31",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 387.704319933,
+        "loading": 20.23,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.8,
+                        50.53
+                    ],
+                    [
+                        5.2865226,
+                        50.5122793
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.043261299999999,
+            "lat": 50.52113965
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_35_MERCA",
+        "assetname": "BRUEGEL-MERCATOR 380.35",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 258.760276693,
+        "loading": 13.5,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.24,
+                        51.0
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.24341255,
+            "lat": 51.07702665
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_109",
+        "assetname": "GEZELLE-VAN MAERLANT 380.109",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 220.077614204,
+        "loading": 12.38,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2558468
+                    ],
+                    [
+                        3.2011967,
+                        51.2478468
+                    ],
+                    [
+                        3.3157897,
+                        51.2109458
+                    ],
+                    [
+                        3.3157897,
+                        51.2189458
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.2584931999999998,
+            "lat": 51.229865549938395
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_73",
+        "assetname": "HORTA-MERCATOR 380.73",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 1045.263783366,
+        "loading": 33.83,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.6036937,
+                        51.11457
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.9252594000000003,
+            "lat": 51.13431165
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_11",
+        "assetname": "GRAMME-LIXHE 380.11",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 311.346924913,
+        "loading": 16.25,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.2865226,
+                        50.5122793
+                    ],
+                    [
+                        5.6691945,
+                        50.7540781
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.47785855,
+            "lat": 50.6331787
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_65",
+        "assetname": "LILLO-ZANDVLIET 380.65",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 164.494765354,
+        "loading": 7.48,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.3072839,
+                        51.3011478
+                    ],
+                    [
+                        4.24811,
+                        51.3695249
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.277696949999999,
+            "lat": 51.335336350000006
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_52_DOEL",
+        "assetname": "DOEL-MERCATOR 380.52",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 915.297563748,
+        "loading": 62.11,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2559171,
+                        51.3223283
+                    ],
+                    [
+                        4.265917099999999,
+                        51.3223283
+                    ],
+                    [
+                        4.29,
+                        51.23
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.276341982682423,
+            "lat": 51.280543322906865
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_35_BRUEG",
+        "assetname": "BRUEGEL-MERCATOR 380.35",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 118.543148736,
+        "loading": 8.04,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2316923,
+                        50.8810035
+                    ],
+                    [
+                        4.24,
+                        51.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.23584615,
+            "lat": 50.940501749999996
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_36_BRUEG",
+        "assetname": "BRUEGEL-MERCATOR 380.36",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 3.542172445,
+        "loading": 0.22,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2316923,
+                        50.8810035
+                    ],
+                    [
+                        4.2416922999999995,
+                        50.8810035
+                    ],
+                    [
+                        4.25,
+                        51.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.2451381197736495,
+            "lat": 50.93589969082107
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_103_MAERL",
+        "assetname": "HORTA-VAN MAERLANT 380.103",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 488.112120226,
+        "loading": 14.12,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.5,
+                        51.2
+                    ],
+                    [
+                        3.3157897,
+                        51.2269458
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.40789485,
+            "lat": 51.2134729
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_56",
+        "assetname": "CHAMPION (NAMUR)-COURCELLES 380.56",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 263.019546984,
+        "loading": 16.32,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.9037791,
+                        50.4886621
+                    ],
+                    [
+                        4.3475466,
+                        50.4945628
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.62566285,
+            "lat": 50.49161245
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_110",
+        "assetname": "GEZELLE-VAN MAERLANT 380.110",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 226.479835476,
+        "loading": 12.74,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.2011967,
+                        51.2478468
+                    ],
+                    [
+                        3.2011967,
+                        51.239846799999995
+                    ],
+                    [
+                        3.3157897,
+                        51.202945799999995
+                    ],
+                    [
+                        3.3157897,
+                        51.2109458
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.2584931999999998,
+            "lat": 51.22186554993839
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_51_DOEL",
+        "assetname": "DOEL-MERCATOR 380.51",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 310.792105577,
+        "loading": 21.09,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2559171,
+                        51.3223283
+                    ],
+                    [
+                        4.28,
+                        51.23
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.2679585499999995,
+            "lat": 51.27616415000001
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_60",
+        "assetname": "MASSENHOVEN-MERCATOR 380.60",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 186.933827582,
+        "loading": 11.6,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.6292157,
+                        51.1958298
+                    ],
+                    [
+                        4.2468251,
+                        51.1540533
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.438020399999999,
+            "lat": 51.17494155
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_104",
+        "assetname": "HORTA-VAN MAERLANT 380.104",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 385.765764431,
+        "loading": 11.16,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.6036937,
+                        51.11457
+                    ],
+                    [
+                        3.3157897,
+                        51.2269458
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.4597417000000004,
+            "lat": 51.1707579
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_103_HORTA",
+        "assetname": "HORTA-VAN MAERLANT 380.103",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 282.567582737,
+        "loading": 8.41,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        3.6036937,
+                        51.11457
+                    ],
+                    [
+                        3.5,
+                        51.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 3.55184685,
+            "lat": 51.157285
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_32",
+        "assetname": "CHAMPION (NAMUR)-GRAMME 380.32",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 400.202047255,
+        "loading": 19.1,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.9037791,
+                        50.4886621
+                    ],
+                    [
+                        5.2865226,
+                        50.5122793
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.09515085,
+            "lat": 50.5004707
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_33_COURC",
+        "assetname": "BRUEGEL-COURCELLES 380.33",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 199.709051107,
+        "loading": 13.55,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2994849,
+                        50.803522
+                    ],
+                    [
+                        4.3475466,
+                        50.4945628
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.32351575,
+            "lat": 50.6490424
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_12_GRAMM",
+        "assetname": "GRAMME-VAN EYCK 380.12",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 141.288068848,
+        "loading": 7.37,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        5.2865226,
+                        50.5122793
+                    ],
+                    [
+                        5.55,
+                        50.9403003
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 5.418261299999999,
+            "lat": 50.7262898
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_30",
+        "assetname": "RILLAND-ZANDVLIET 380.30",
+        "assettype": "Tieline",
+        "basevoltage": 380.0,
+        "physicalflow": 495.247702094,
+        "loading": 20.68,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.181,
+                        51.416
+                    ],
+                    [
+                        4.181,
+                        51.407999999999994
+                    ],
+                    [
+                        4.24811,
+                        51.3615249
+                    ],
+                    [
+                        4.24811,
+                        51.3695249
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.214555,
+            "lat": 51.38541797674406
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_25",
+        "assetname": "DOEL-ZANDVLIET 380.25",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 383.723153754,
+        "loading": 24.29,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.2559171,
+                        51.3223283
+                    ],
+                    [
+                        4.24811,
+                        51.3695249
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.252013549999999,
+            "lat": 51.345926600000006
+        }
+    },
+    {
+        "acdc": "AC",
+        "datetime": "2022-12-08T09:00:00+01:00",
+        "resolutioncode": "PT15M",
+        "assetid": "380_21",
+        "assetname": "MASSENHOVEN-MEERHOUT 380.21",
+        "assettype": "Internal Line",
+        "basevoltage": 380.0,
+        "physicalflow": 395.300259332,
+        "loading": 24.53,
+        "assetgeographiclocation": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        4.6292157,
+                        51.1958298
+                    ],
+                    [
+                        5.063508,
+                        51.1076435
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {}
+        },
+        "geo_point_2d": {
+            "lon": 4.846361849999999,
+            "lat": 51.151736650000004
+        }
+    }
+]
